@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "client-app",
-    "slug": "client-app",
+    "name": "coffee-shop-app",
+    "slug": "coffee-shop-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
